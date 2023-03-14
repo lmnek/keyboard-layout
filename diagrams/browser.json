@@ -1,0 +1,207 @@
+[
+  {
+    "notes": "Enter"
+  },
+  [
+    {
+      "a": 7
+    },
+    "",
+    {
+      "c": "#fab900",
+      "a": 4
+    },
+    "Browser\n\n\n\n\n\noff",
+    {
+      "c": "#cccccc",
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "c": "#edd8b4",
+      "a": 4
+    },
+    "Volume\n\n\n\n\n\nDown",
+    "Volume\n\n\n\n\n\nUp",
+    {
+      "c": "#cccccc",
+      "w": 2
+    },
+    "Backspace"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "c": "#d9ffeb"
+    },
+    "Home",
+    "End",
+    "PgUp",
+    "Pg\n\n\n\n\n\nDown",
+    {
+      "c": "#f7e1e1",
+      "fa": [
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Search\n\n\nf",
+    {
+      "c": "#edd8b4"
+    },
+    "Next\n\n\n\n\n\nSong",
+    "Pause\n\n\n\n\n\nMedia",
+    {
+      "c": "#d9ffeb"
+    },
+    "↑",
+    {
+      "c": "#bedaeb"
+    },
+    "Reopen\nTab\n\n\n\n\nClosed",
+    "Reload\n\n\n\n\n\nPage",
+    "Close\n\n\n\n\n\nTab",
+    {
+      "c": "#98a7eb"
+    },
+    "Minimize\n\n\n\n\n\nWindow",
+    {
+      "w": 1.5
+    },
+    "Close\n\n\n\n\n\nWindow"
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "w": 1.75
+    },
+    "Alt-tab",
+    {
+      "c": "#e0b6b6"
+    },
+    "Esc",
+    {
+      "c": "#bedaeb"
+    },
+    "Prev\n\n\n\n\n\nTab",
+    "Next\n\n\n\n\n\nTab",
+    {
+      "c": "#98a7eb"
+    },
+    "Alt-Tab",
+    "Left\nDesktop\n\n\n\n\nVirtual",
+    "Right\nDesktop\n\n\n\n\nVirtual",
+    {
+      "c": "#d9ffeb"
+    },
+    "←",
+    "→",
+    "↓",
+    {
+      "c": "#cccccc",
+      "a": 7
+    },
+    "",
+    {
+      "c": "#fab900",
+      "a": 4
+    },
+    "Browser\n\n\n\n\n\noff",
+    {
+      "c": "#cccccc",
+      "w": 2.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "c": "#b3b3b3",
+      "w": 2.25
+    },
+    "Shift",
+    {
+      "c": "#98a7eb"
+    },
+    "Window\n\n\n\n\n\nLeft",
+    "Window\n\n\n\n\n\nRight",
+    {
+      "c": "#f7e1e1"
+    },
+    "Copy\n\n\nc",
+    "Paste\n\n\nv",
+    {
+      "c": "#9dd1f2"
+    },
+    "Bitwarden\n\n\n\n\n\nAutofill",
+    {
+      "c": "#bedaeb"
+    },
+    "New\n\n\n\n\n\nWindow",
+    "New\n\n\n\n\n\nTab",
+    "New\nWindow\n\n\n\n\nPrivate",
+    "Open\ntab\n\n\n\n\nin new",
+    {
+      "c": "#9dd1f2"
+    },
+    "Flow\n\n\n\n\n\nLaunch",
+    {
+      "c": "#cccccc",
+      "w": 2.75
+    },
+    "Shift"
+  ],
+  [
+    {
+      "c": "#b3b3b3",
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "c": "#cccccc",
+      "w": 1.25
+    },
+    "Win",
+    {
+      "c": "#b3b3b3",
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "c": "#cccccc",
+      "w": 6.25
+    },
+    "Enter",
+    {
+      "c": "#98a7eb",
+      "w": 1.25
+    },
+    "Context\n\n\n\n\n\nMenu",
+    {
+      "c": "#cccccc",
+      "w": 1.25
+    },
+    "Color",
+    {
+      "w": 1.25
+    },
+    "Fn",
+    {
+      "c": "#b3b3b3",
+      "w": 1.25
+    },
+    "Ctrl"
+  ]
+]
